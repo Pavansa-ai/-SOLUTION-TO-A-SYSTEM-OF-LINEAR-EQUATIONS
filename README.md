@@ -31,7 +31,7 @@ print(soln)
 ```
 
 ## Output:
-<img width="1623" height="489" alt="image" src="https://github.com/user-attachments/assets/60cdf09c-84c5-45d8-bff2-37173b7ccdf3" />
+<img width="1634" height="593" alt="image" src="https://github.com/user-attachments/assets/c61cb998-e9ae-4ef8-8015-a5e5263e3cd7" />
 
 
 ## Result: 
